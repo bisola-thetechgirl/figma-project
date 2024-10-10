@@ -1,0 +1,160 @@
+
+.navbar{
+    background-color: #f5f7fa;
+    
+    height: 50px;
+}
+.logo{
+float: left;
+}
+
+ul{
+    float: left;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+li{
+    margin: 20px;
+    font-size: 20px;
+    list-style-type: none;
+    float: left;
+    margin-top: -10px;
+    width: 100px;
+}
+li a{
+    text-decoration: none;
+    color: rgb(70, 67, 67);
+}
+.reg{
+    float: right;
+    display: flex;
+}
+.log{
+    margin-right: 10px;
+    padding: 10px;
+}
+.sign{
+    padding: 10px;
+}
+.log a button{
+    color: green;
+}
+.log button{
+    background-color: white;
+    border-radius: 10px;
+    border-color: transparent;
+    padding: 10px;
+    transition: 0.5;
+}
+
+.log button:hover{
+    background-color: green;
+    color: white;
+}
+
+.sign a button{
+    color: white;
+}
+.sign button{
+    background-color: green;
+    border-radius: 10px;
+    border-color: transparent;
+    padding: 10px;
+    transition: 0.5;
+}
+
+.sign button:hover{
+    background-color: white;
+    color: green;
+}
+.main1{
+    background-color: #F5F7FA;
+    height: 400px;
+}
+span {
+    color: green;
+}
+a button {
+    background-color: #4CAF4F;
+    color: white;
+    border: none;
+    width: 75px;
+    padding: 10px;
+    transition: 0.5;
+    font-size: 15px;
+}
+a button:hover{
+    color: #4CAF4F;
+    background-color: #f5f7fa;
+}
+
+.ill {
+    float: right;
+    margin-top: -120px;
+    height: 100px;
+    width: -50px;
+}
+
+.dot{
+    text-align: center;
+    padding-top: 200px;
+}
+.clients {
+    text-align: center;
+}
+
+.com{
+    text-align: center;
+}
+
+.threeyrs{
+    height: 450px;
+}
+.frame35{
+    float: left;
+}
+
+.learn a button{
+    font-size: 12px;
+    width: 100px;
+}
+
+.help{
+    height: 250px;
+    background-color: #F5F7FA;
+}
+
+.counts{
+    float: right;
+    margin-top: -100px;
+}
+
+.design{
+    height: 350px;
+}
+
+.smith{
+    float: right;
+    margin-top: -320px;
+}
+
+.timsmith{
+    background-color: #F5F7FA;
+    height: 350px;
+}
+
+.caring {
+    text-align: center;
+    justify-content: space-between;
+}
+
+.pell{
+    background-color: #F5F7FA;
+    text-align: center;
+    font-size: 40px;
+}
+
+.demo a button{
+    width: 200px;
+}
